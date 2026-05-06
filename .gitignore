@@ -6,3 +6,8 @@ __pycache__/
 .virtual_documents/
 .vscode/
 data/outputs/
+SAR_Lab_2/SAR_Lab_2
+lab_5/outputs
+*.md
+*.toml
+*.lock
